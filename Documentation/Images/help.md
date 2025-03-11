@@ -10,7 +10,8 @@ Currently the application features experiments in two different sub-areas of AT:
 
 To start any experiment, one follows the figure below and firstly defines the dataset settings and optionally fetches new datasets or updates them. Model and benchmark parameters are defined later and will impact the model's evaluation results which are visualized at the end of the experiment like in this depiction of the program structure:
 
-![project_structure](https://github.com/user-attachments/assets/efded7a9-bc6a-48ff-a5b8-0d62b8780e14)
+![image](https://github.com/user-attachments/assets/e3ee1fc4-ac8d-4e9d-9f6e-442486f4d666)
+
 
 Note that in this depiction all RL systems are marked as WIP and that a second project with a real-world Binance backtesting environment 
 is planned to backtest the RL system in more realistic conditions to also capture slippage and order delay.
