@@ -10,7 +10,7 @@ Currently the application features experiments in two different sub-areas of AT:
 
 To start any experiment, one follows the figure below and firstly defines the dataset settings and optionally fetches new datasets or updates them. Model and benchmark parameters are defined later and will impact the model's evaluation results which are visualized at the end of the experiment like in this depiction of the program structure:
 
-![](assets/project_structure.png)
+![project_structure](https://github.com/user-attachments/assets/efded7a9-bc6a-48ff-a5b8-0d62b8780e14)
 
 Note that in this depiction all RL systems are marked as WIP and that a second project with a real-world Binance backtesting environment 
 is planned to backtest the RL system in more realistic conditions to also capture slippage and order delay.
@@ -48,7 +48,7 @@ Applied with an GPU, these models can complement any AT or RL system with its fo
 
 A depiction of the [Linear](https://arxiv.org/abs/2205.13504v3) model:
 
-![](assets/Linear.png)
+![Linear](https://github.com/user-attachments/assets/954bb53d-2472-4ed9-b3dc-5e6624f3b474)
  
 ##### NLinear
 
@@ -67,7 +67,7 @@ By subtracting the time series by its last value the standardized data distribut
 
 Here is a depiction of the proposed NDLinear (figure reused from [DLinear](https://arxiv.org/abs/2205.13504v2)):
 
-![](assets/NDLinear.png)
+![NDLinear](https://github.com/user-attachments/assets/9a5c2352-661f-4fae-a43b-a2bb1df3c7ef)
 
 - However, we still think that a decomposition of the time series will benefit NLinear.
 - We also we think that by normalizing a time series by subtracting its last value like NLinear, 
