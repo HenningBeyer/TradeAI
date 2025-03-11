@@ -1,3 +1,9 @@
+# TradeAI
+
+Here is a project I made as both as a high-school-assignment, and possibly as a startup prototype. At best, just refer to the [PDF documentation](https://github.com/HenningBeyer/TradeAI/blob/main/Documentation/Pflichtenheft.pdf), and the [PowerPoint Presentation](https://github.com/HenningBeyer/TradeAI/blob/main/Documentation/Presentation.pdf) for all information.
+
+Below you can also read an English README.md, that I previously embedded into the program and reused for here demonstration again. Enjoy!
+
 ## Program Description
 This browser application provides a flexible environment for experimenting with new state of the art AI methods inside the area of algorithmic trading (AT) 
  while using high quality data of 13 different crypto currencies.
